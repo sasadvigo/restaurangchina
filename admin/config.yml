@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-github-login/your-repo-name
+  repo: advigo/restaurangchina
   branch: master
   site_domain: http://shopkeeper-constance-22767.netlify.com/
 media_folder: "images/uploads"
