@@ -2,8 +2,7 @@ backend:
   name: github
   repo: advigo/restaurangchina
   branch: master
-  api_root: https://github.some.domain.com/api/v3
-  site_domain: http://shopkeeper-constance-22767.netlify.com/
+  site_domain: https://shopkeeper-constance-22767.netlify.com
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
